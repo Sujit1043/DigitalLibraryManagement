@@ -19,6 +19,7 @@ Handling invalid inputs from users
 
 # Screenshot :
 Menu
+
 ![image](https://github.com/user-attachments/assets/26d11d11-dc6b-47bb-b386-1cd0700c614b)
 
 Books available
