@@ -23,5 +23,6 @@ Menu
 ![image](https://github.com/user-attachments/assets/26d11d11-dc6b-47bb-b386-1cd0700c614b)
 
 Books available
-![image](https://github.com/user-attachments/assets/39c9baf3-bac8-4f8e-bc47-ea641cec7205)
+![image](https://github.com/user-attachments/assets/22f049c2-9a54-430a-ad96-450233946ae9)
+
 
